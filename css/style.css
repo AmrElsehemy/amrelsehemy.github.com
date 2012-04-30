@@ -8,7 +8,7 @@ body {
 	background-image: url(../images/body-back.gif);
 	background-repeat: repeat-x;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 
@@ -55,7 +55,13 @@ body {
 .right_details h1 {margin:0px; padding:0px 0px 10px 0px; font-size:26px; font-weight:normal; color:#511f0d; border-bottom:1px #c3c0c1 solid;}
 .right_details h1 span { font-weight:bold;}
 .right_details  h4 {margin:0px; padding:20px 0px 0px 0px; font-size:18px; font-weight:bold; color:#793a1f;}
-.right_details p {margin:0px; padding:0px; line-height:24px; color:#793a1f; font-size:16px;}
+.right_details p {
+	margin:0px;
+	padding:0px;
+	line-height:normal;
+	color:#793a1f;
+	font-size:15px;
+}
 .right_details ul {margin:20px 40px 0px 0px; padding:0px; float:left; display:block; color:#fe8510;}
 .right_details ul li{margin:0px; padding:0px; list-style:none; line-height:24px;}
 .right_details ul li a {margin:0px; padding:0px 0px 0px 15px; color:#fe8510; text-decoration:none; background:url(../images/nav_dot.gif) 0 4px no-repeat;}
